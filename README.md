@@ -2,7 +2,7 @@
 
 simple sanke
 
-![Image of Yaktocat](https://media.giphy.com/media/8gzpXJQKHHtIoX5ltp/giphy.gif)
+![DEMO](https://media.giphy.com/media/8gzpXJQKHHtIoX5ltp/giphy.gif)
 
 # CONTROLS
 
